@@ -116,11 +116,11 @@ def layer7():
     clear()
     si()
     print(f'''> Method : https-dark
-                         httpflood
-                         admin
-                         cf-uam
-                         http-white
-                         http-v1 ''')
+                httpflood
+                admin
+                cf-uam
+                http-white
+                http-v1 ''')
 
 def layer4():
     clear()
@@ -134,7 +134,7 @@ def amp_games():
 
 
 def menu():
-    sys.stdout.write(f"         [ Jubi | Online Users: [1] | Welcome : Jubichan ]")
+    sys.stdout.write(f"         \x1b]2;[ Jubi | Online Users: [1] | Welcome : Jubichan ]\x07")
     clear()
     print('Onwer : Jubi666')
     print("")
